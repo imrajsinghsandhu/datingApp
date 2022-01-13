@@ -5,3 +5,4 @@ Has the following functionalities :
   - Swipe cards (swipe left & right)
   - Matching functionality
   - Chatting between matches
+  - Google Auth API
