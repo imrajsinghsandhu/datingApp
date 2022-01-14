@@ -6,3 +6,4 @@ Has the following functionalities :
   - Matching functionality
   - Chatting between matches
   - Google Auth API
+  - Higher Order Component in React Native 
