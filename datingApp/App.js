@@ -9,7 +9,7 @@ import { AuthProvider } from "./hooks/useAuth";
 /**
  * Navigation container goes into StackNavigator and then accesses
  * the first screen available. The StackNavigator is the screen we have
- * created earlier, that has the screens in them.
+ * created earlier, that has the screens in them
  */
 export default function App() {
   return (
